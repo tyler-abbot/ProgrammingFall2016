@@ -1,0 +1,14 @@
+Now, you'll need to configure the the repository to know how to sync. Navigate to the course GitHub page again, https://github.com/tyler-abbot/ProgrammingFall2016, and copy the clone repository.
+
+Now, open a terminal and navigate into your newly cloned repositor, eg cd Users/you/PyShop. Now type git remote -v. This will display the current "upstream" repository. You want to add the master branch to this. Type the following (I've filled in the url for you, but you can paste the one you got from GitHub if you'd like):
+
+ git remote add upstream https://github.com/tyler-abbot/ProgrammingFall2016.git
+
+Check your work by typing git remote -v again. If you now see the upstream listing my GitHub account, success!!
+
+Whenever you would like to sync up your local repository with my master branch, just cd into your local repository and type the following:
+
+git fetch upstream
+git checkout master
+git merge upstream/master
+
