@@ -1,0 +1,15 @@
+Package: HWPackage
+Title: Sum of Roots Package
+Version: 0.0.0.9000
+Authors@R: person("Laura", "Green", email = "laura.green@sciencespo.fr", role = c("aut", "cre"))
+Description: This package gives the sum of square roots of two numbers.
+Depends: R (>= 3.3.1)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1
+Suggests: testthat
+NeedsCompilation: no
+Packaged: 2016-10-07 02:49:31 UTC; Laura
+Author: Laura Green [aut, cre]
+Maintainer: Laura Green <laura.green@sciencespo.fr>
