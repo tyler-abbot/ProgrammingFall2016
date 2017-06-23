@@ -1,0 +1,8 @@
+Package: LBproject
+Type: Package
+Title: Data import, Regression, Plotting and Descriptive Statistics
+Version: 1.0
+Date: 2016-12-01
+Author: Luis Bosshart
+Maintainer: Who to complain to <luis.bosshart@sciencespo.fr>
+License: Chicychicken

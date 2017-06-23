@@ -1,0 +1,12 @@
+Package: Story.Generator
+Title: Random story generator
+Version: 0.0.0.9000
+Authors@R: person("Zhi Qin", "Lim", email = "zhiqin.lim@sciencespo.fr", role = c("aut", "cre"))
+Description: This package by Zhi Qin, Julie, Maxime and Laura is composed of 3 functions which each give out stories
+    based on user inputs.
+Depends:
+    R (>= 3.3.1)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1
