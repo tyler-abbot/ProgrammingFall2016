@@ -1,0 +1,18 @@
+Package: TestPackage
+Type: Package
+Title: Ligue 1 2017 - Ranking Predictions
+Version: 0.0.0.9000
+Date: 2016-12-01
+Author: Augustin Dao [aut, cre, prg]
+    Edgard Dewitte [aut, pdr],
+    Zydney Wong [aut, arc]
+    Victor Saint-Jean [aut, blw]
+Maintainer: Augustin Dao <augustin.dao@sciencespo.fr>
+ Edgard Dewitte <edgard.dewitte@sciencespo.fr>
+Description: This package tries to predict the final ranking of the French football championship 'Ligue 1' in 2017, based on each team 'form', i.e. results in the first ten games, and 'quality', i.e. results in the previous championship.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1
+NeedsCompilation: no
+Packaged: 2016-12-01 13:33:48 UTC; augustin

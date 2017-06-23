@@ -1,0 +1,12 @@
+Package: Simpsons
+Title: Female Dialoge Share in Simpsons
+Version: 0.0.0.9000
+Authors@R: person("Fabian", "Hafner", email = "fabian.hafner@gmail.com", role = c("aut", "cre"))
+Description: Loads the downloaded Simpson datasets, merges and cleans them and counts words by gender and episode.
+Depends:
+    R (>= 3.3.1)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1
+Suggests: testthat
